@@ -1,0 +1,16 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+distgfs==1.1.0
+geopandas==0.14.4
+joblib==1.4.0
+kaggle==1.6.14
+matplotlib==3.8.4
+numba==0.59.1
+numpy==1.26.4
+pandas==2.2.1
+requests==2.32.3
+scikit-learn==1.4.2
+scipy==1.13.0
+tqdm==4.66.4
+urllib3==2.2.1
