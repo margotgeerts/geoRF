@@ -1,6 +1,6 @@
 #  geoRF: a Geospatial Random Forest :deciduous_tree:
 
-GeoRF is the Python-based code repository for the paper "geoRF: a Geospatial Random Forest". It is a bagged tree ensemble for geospatial data that introduces two split types specifically designed for geospatial features: a diagonal split and a Gaussian split. More information can be found in the paper: [link to be added] ().
+GeoRF is the Python-based code repository for the paper "geoRF: a Geospatial Random Forest". It is a bagged tree ensemble for geospatial data that introduces two split types specifically designed for geospatial features: a diagonal split and a Gaussian split. More information can be found in the paper: [full-text access] (https://rdcu.be/dLlUK).
 
 
 ## Installation
@@ -30,14 +30,16 @@ Also see the [example](Example.ipynb).
 ## Cite us 
 
 ```bibtex
-@article{geerts2024georf,
-title={geoRF: a Geospatial Random Forest},
-author={Geerts, Margot and {vanden Broucke}, Seppe and {De Weerdt}, Jochen},
-  journal={},
-  volume={},
-  pages={},
-  year={},
-  publisher={}
+@article{Geerts2024geoRF,
+   author = {Margot Geerts and Seppe {vanden Broucke} and Jochen {De Weerdt}},
+   doi = {10.1007/s10618-024-01046-7},
+   issn = {1573-756X},
+   journal = {Data Mining and Knowledge Discovery},
+   title = {GeoRF: a geospatial random forest},
+   url = {https://doi.org/10.1007/s10618-024-01046-7},
+   year = {2024},
+}
+
 ```
 
 ## Contributions
